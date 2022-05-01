@@ -1,0 +1,22 @@
+<div class="container">
+    <div class="row">
+        <div class="col-4 col-sm-4 col-md-5 col-lg-4">
+            <table class="table mt-4">
+
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Nacionalidade</th>
+                </tr>
+                
+                <tr *ngFor="let i of authors">
+                    <td>{{i.id}}</td>
+                    <td>{{i.name}}</td>
+                    <td>{{i.nacionality}}</td>
+                </tr>
+
+
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+{
+    "authors": [
+      {
+        "id": 0,
+        "name": "Fyodor Dostoievsky",
+        "nacionality": "Russo"
+      },
+      {
+        "id": "1",
+        "name": "Liev Tolstói",
+        "nacionality": "Russo"
+      }
+    ]
+  }
